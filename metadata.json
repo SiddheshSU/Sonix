@@ -1,0 +1,8 @@
+{
+  "name": "SONIX",
+  "description": "Advanced AI-powered voice fraud detection and forensic analysis system with holographic interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
